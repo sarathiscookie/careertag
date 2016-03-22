@@ -1,0 +1,332 @@
+tagcategory_id,title_de,title_en,suggestion,created_by
+1,.NET Framework,.NET Framework,yes,0
+1,AB Test,AB Test,yes,0
+1,Abstraktion,Abstraktion,yes,0
+1,Administration,Administration,yes,0
+1,ADO.NET,ADO.NET,yes,0
+1,Adobe Creative Suite,Adobe Creative Suite,yes,0
+1,AJAX (Programmierung),AJAX (Programmierung),yes,0
+1,Akkreditierung,Akkreditierung,yes,0
+1,Akzeptanztest,Akzeptanztest,yes,0
+1,Android,Android,yes,0
+1,AngularJS,AngularJS,yes,0
+1,API,API,yes,0
+1,Architektur,Architektur,yes,0
+1,ASP.NET,ASP.NET,yes,0
+1,Ausbildung,Ausbildung,yes,0
+1,Ausdauer,Ausdauer,yes,0
+1,Auslandserfahrung,Auslandserfahrung,yes,0
+1,Automotive,Automotive,yes,0
+1,Baufinanzierung,Baufinanzierung,yes,0
+1,Belastbarkeit,Belastbarkeit,yes,0
+1,Beratung,Beratung,yes,0
+1,Betriebswirtschaft,Betriebswirtschaft,yes,0
+1,Black Box,Black Box,yes,0
+1,Bonusprogramme,Bonusprogramme,yes,0
+1,Books,Books,yes,0
+1,Bootstrap (Framework),Bootstrap (Framework),yes,0
+1,Börse,Börse,yes,0
+1,Bücher,Bücher,yes,0
+1,Business,Business,yes,0
+1,Business Administration,Business Administration,yes,0
+1,Business Finance,Business Finance,yes,0
+1,Business to Business,Business to Business,yes,0
+1,Business to Customer,Business to Customer,yes,0
+1,Businessdevelopment,Businessdevelopment,yes,0
+1,BWL,BWL,yes,0
+1,C#,C#,yes,0
+1,C++,C++,yes,0
+1,CAD,CAD,yes,0
+1,Catia,Catia,yes,0
+1,Charisma,Charisma,yes,0
+1,Chemie,Chemie,yes,0
+1,Coaching,Coaching,yes,0
+1,Consulting,Consulting,yes,0
+1,Content Marketing,Content Marketing,yes,0
+1,Controlling,Controlling,yes,0
+1,Corporate Finance,Corporate Finance,yes,0
+1,CRM,CRM,yes,0
+1,Cross-Browser,Cross-Browser,yes,0
+1,CSS,CSS,yes,0
+1,Datenbanken,Datenbanken,yes,0
+1,DB2,DB2,yes,0
+1,Debian,Debian,yes,0
+1,Delegationskompetenz,Delegationskompetenz,yes,0
+1,Design,Design,yes,0
+1,Desrupt,Desrupt,yes,0
+1,Desruptive Technologie,Desruptive Technologie,yes,0
+1,Direktvertrieb,Direktvertrieb,yes,0
+1,Disziplin,Disziplin,yes,0
+1,Drools,Drools,yes,0
+1,Due-Dilligence-Prüfung,Due-Dilligence-Prüfung,yes,0
+1,Durchsetzungsvermögen,Durchsetzungsvermögen,yes,0
+1,E-Commerce,E-Commerce,yes,0
+1,Eigenkapital,Eigenkapital,yes,0
+1,Eigenverantwortung,Eigenverantwortung,yes,0
+1,Elektotechnik,Elektotechnik,yes,0
+1,Elektromechanik,Elektromechanik,yes,0
+1,Elektronik,Elektronik,yes,0
+1,Empathie,Empathie,yes,0
+1,Engagement,Engagement,yes,0
+1,Engineering Analysis,Engineering Analysis,yes,0
+1,Entscheidungen ,Entscheidungen ,yes,0
+1,Entscheidungsstärke,Entscheidungsstärke,yes,0
+1,Ernährung,Ernährung,yes,0
+1,Erneuerbare Energien,Erneuerbare Energien,yes,0
+1,Eventplanung,Eventplanung,yes,0
+1,Events,Events,yes,0
+1,Facebook,Facebook,yes,0
+1,Familie,Familie,yes,0
+1,Fernsehwerbung,Fernsehwerbung,yes,0
+1,Fertigungsprozess,Fertigungsprozess,yes,0
+1,Film,Film,yes,0
+1,Finanzierung,Finanzierung,yes,0
+1,Finanzplanung,Finanzplanung,yes,0
+1,Fireworks,Fireworks,yes,0
+1,Fitness,Fitness,yes,0
+1,Flexibilität,Flexibilität,yes,0
+1,Fotografie,Fotografie,yes,0
+1,Fotos,Fotos,yes,0
+1,Frontend-Entwicklung,Frontend-Entwicklung,yes,0
+1,Führung,Führung,yes,0
+1,Games,Games,yes,0
+1,Garten,Garten,yes,0
+1,Gastronomie,Gastronomie,yes,0
+1,Geschichte,Geschichte,yes,0
+1,Gespräch,Gespräch,yes,0
+1,Google Guice,Google Guice,yes,0
+1,Grafikdesign,Grafikdesign,yes,0
+1,Green,Green,yes,0
+1,GWT,GWT,yes,0
+1,Handel,Handel,yes,0
+1,Handwerk,Handwerk,yes,0
+1,Hardware,Hardware,yes,0
+1,Hashtags,Hashtags,yes,0
+1,Hibernate,Hibernate,yes,0
+1,HR,HR,yes,0
+1,HTML,HTML,yes,0
+1,HTML5,HTML5,yes,0
+1,Humor,Humor,yes,0
+1,Hydraulik,Hydraulik,yes,0
+1,Illustrator,Illustrator,yes,0
+1,Immobilien,Immobilien,yes,0
+1,Indesign,Indesign,yes,0
+1,Ingenieurwesen,Ingenieurwesen,yes,0
+1,Initiative,Initiative,yes,0
+1,Innovation,Innovation,yes,0
+1,Inselfertigung,Inselfertigung,yes,0
+1,Instagram,Instagram,yes,0
+1,Intra- und interkulturelle Kompetenz,Intra- und interkulturelle Kompetenz,yes,0
+1,IT,IT,yes,0
+1,ITIL,ITIL,yes,0
+1,IT-Security,IT-Security,yes,0
+1,J2EE,J2EE,yes,0
+1,Java,Java,yes,0
+1,Java,Java,yes,0
+1,JavaFX,JavaFX,yes,0
+1,JavaScript,JavaScript,yes,0
+1,JavaScript,JavaScript,yes,0
+1,Jazz,Jazz,yes,0
+1,jQuery,jQuery,yes,0
+1,JSON,JSON,yes,0
+1,Kampfgeist,Kampfgeist,yes,0
+1,Key Account,Key Account,yes,0
+1,Klavier,Klavier,yes,0
+1,Kommunikation,Kommunikation,yes,0
+1,Konfliktkompetenz,Konfliktkompetenz,yes,0
+1,Kontakte,Kontakte,yes,0
+1,Konzeption,Konzeption,yes,0
+1,Kreativität,Kreativität,yes,0
+1,Kritikkompetenz,Kritikkompetenz,yes,0
+1,Kultur,Kultur,yes,0
+1,Kundenbetreuung,Kundenbetreuung,yes,0
+1,Kundenbindung,Kundenbindung,yes,0
+1,Kunst,Kunst,yes,0
+1,Kunstofftechnik,Kunstofftechnik,yes,0
+1,LAMP (Softwarepaket,LAMP (Softwarepaket,yes,0
+1,Leadgenerierung,Leadgenerierung,yes,0
+1,Leistung,Leistung,yes,0
+1,Lernen,Lernen,yes,0
+1,Linguistik,Linguistik,yes,0
+1,Linux,Linux,yes,0
+1,Literatur,Literatur,yes,0
+1,Literature,Literature,yes,0
+1,Logik,Logik,yes,0
+1,Logistik,Logistik,yes,0
+1,Logopädie,Logopädie,yes,0
+1,Loyalität,Loyalität,yes,0
+1,Loyalty,Loyalty,yes,0
+1,Mac,Mac,yes,0
+1,Manuelles Testen,Manuelles Testen,yes,0
+1,Marketing,Marketing,yes,0
+1,Maschinenbau,Maschinenbau,yes,0
+1,Mathematik,Mathematik,yes,0
+1,Matlab,Matlab,yes,0
+1,Mediation,Mediation,yes,0
+1,Menschen,Menschen,yes,0
+1,Menschenkenntnis,Menschenkenntnis,yes,0
+1,Mentor,Mentor,yes,0
+1,Merchandising,Merchandising,yes,0
+1,Microsoft Excel,Microsoft Excel,yes,0
+1,Microsoft Office,Microsoft Office,yes,0
+1,Microsoft Outlook,Microsoft Outlook,yes,0
+1,Microsoft Powerpoint,Microsoft Powerpoint,yes,0
+1,Microsoft Word,Microsoft Word,yes,0
+1,Mobile,Mobile,yes,0
+1,Moderation,Moderation,yes,0
+1,Moderation,Moderation,yes,0
+1,Motivation,Motivation,yes,0
+1,Motivierungsvermögen,Motivierungsvermögen,yes,0
+1,Motorrad,Motorrad,yes,0
+1,Motorsport,Motorsport,yes,0
+1,MTM,MTM,yes,0
+1,Musik,Musik,yes,0
+1,MySQL,MySQL,yes,0
+1,Nachhaltigkeit,Nachhaltigkeit,yes,0
+1,Networking,Networking,yes,0
+1,Netzwerk,Netzwerk,yes,0
+1,Neugier,Neugier,yes,0
+1,NLP,NLP,yes,0
+1,Nonverbale Sensibilität,Nonverbale Sensibilität,yes,0
+1,Normen,Normen,yes,0
+1,Oracle,Oracle,yes,0
+1,Organisationstalent,Organisationstalent,yes,0
+1,OS,OS,yes,0
+1,Pädagogik,Pädagogik,yes,0
+1,Payment,Payment,yes,0
+1,Personalführung,Personalführung,yes,0
+1,Persönlichkeit,Persönlichkeit,yes,0
+1,Photoshop,Photoshop,yes,0
+1,Photovoltaik,Photovoltaik,yes,0
+1,PHP,PHP,yes,0
+1,PHP,PHP,yes,0
+1,Physik,Physik,yes,0
+1,Pivot-Tabelle,Pivot-Tabelle,yes,0
+1,Planung,Planung,yes,0
+1,Politik,Politik,yes,0
+1,PR / Öffentlichkeitsarbeit,PR / Öffentlichkeitsarbeit,yes,0
+1,Präsentation,Präsentation,yes,0
+1,Präsentation,Präsentation,yes,0
+1,Problemlösen,Problemlösen,yes,0
+1,Produktionsplanung,Produktionsplanung,yes,0
+1,Produktionsprozess,Produktionsprozess,yes,0
+1,Projektleitung,Projektleitung,yes,0
+1,Projektmanagement,Projektmanagement,yes,0
+1,Projektstrukturplan,Projektstrukturplan,yes,0
+1,Prozesssimulation,Prozesssimulation,yes,0
+1,Prüfplan,Prüfplan,yes,0
+1,Pünktlickkeit,Pünktlickkeit,yes,0
+1,Qigong,Qigong,yes,0
+1,Qualifizierung,Qualifizierung,yes,0
+1,Qualitätskontrolle,Qualitätskontrolle,yes,0
+1,Qualitätslenkung,Qualitätslenkung,yes,0
+1,Qualitätsmanagement,Qualitätsmanagement,yes,0
+1,QuarkXPress,QuarkXPress,yes,0
+1,Recruiting,Recruiting,yes,0
+1,Redaktion,Redaktion,yes,0
+1,REFA,REFA,yes,0
+1,Regelungstechnik,Regelungstechnik,yes,0
+1,Reifen,Reifen,yes,0
+1,Reisen,Reisen,yes,0
+1,Reporting,Reporting,yes,0
+1,Responsive Design,Responsive Design,yes,0
+1,Responsiveness,Responsiveness,yes,0
+1,REST,REST,yes,0
+1,Retail,Retail,yes,0
+1,Rhetorik,Rhetorik,yes,0
+1,Risikomanagement,Risikomanagement,yes,0
+1,Robotik,Robotik,yes,0
+1,Ruhe,Ruhe,yes,0
+1,Sales,Sales,yes,0
+1,SASS,SASS,yes,0
+1,Schauspielerei,Schauspielerei,yes,0
+1,Schemazeichnung,Schemazeichnung,yes,0
+1,Schlagfertigkeit,Schlagfertigkeit,yes,0
+1,Schreiben,Schreiben,yes,0
+1,Selbstbewusstsein,Selbstbewusstsein,yes,0
+1,Selbstvermarktungsfähigkeit,Selbstvermarktungsfähigkeit,yes,0
+1,SEM,SEM,yes,0
+1,SEO,SEO,yes,0
+1,Service,Service,yes,0
+1,Simulation,Simulation,yes,0
+1,Six Sigma,Six Sigma,yes,0
+1,Skizzen,Skizzen,yes,0
+1,Social,Social,yes,0
+1,Softwaretesting,Softwaretesting,yes,0
+1,Soziale Kompetenz,Soziale Kompetenz,yes,0
+1,Sport,Sport,yes,0
+1,Sports,Sports,yes,0
+1,Sprachen,Sprachen,yes,0
+1,Sprechen,Sprechen,yes,0
+1,Spritzgießen,Spritzgießen,yes,0
+1,SQL,SQL,yes,0
+1,Startup,Startup,yes,0
+1,Statistik,Statistik,yes,0
+1,Stochastik,Stochastik,yes,0
+1,strategisches Verkaufsmanagement,strategisches Verkaufsmanagement,yes,0
+1,Streaming,Streaming,yes,0
+1,Strukturiertes Denken,Strukturiertes Denken,yes,0
+1,Sturkturierte Arbeitsweise,Sturkturierte Arbeitsweise,yes,0
+1,Systemisches Denken,Systemisches Denken,yes,0
+1,Tabellenkalkultation,Tabellenkalkultation,yes,0
+1,Tanz,Tanz,yes,0
+1,Targeting,Targeting,yes,0
+1,Teamfähigkeit,Teamfähigkeit,yes,0
+1,Teamleitung,Teamleitung,yes,0
+1,Technik,Technik,yes,0
+1,Technische Zeichnung,Technische Zeichnung,yes,0
+1,Technologie,Technologie,yes,0
+1,Telefonverkauf,Telefonverkauf,yes,0
+1,Test Suite,Test Suite,yes,0
+1,Testautomatisierung,Testautomatisierung,yes,0
+1,Theater,Theater,yes,0
+1,Thermografie,Thermografie,yes,0
+1,Training,Training,yes,0
+1,TYPO3,TYPO3,yes,0
+1,Überzeugungsvermögen,Überzeugungsvermögen,yes,0
+1,UML,UML,yes,0
+1,Unix,Unix,yes,0
+1,Unternehmen,Unternehmen,yes,0
+1,Unternehmensberatung,Unternehmensberatung,yes,0
+1,Urteilsvermögen,Urteilsvermögen,yes,0
+1,Usability,Usability,yes,0
+1,UX,UX,yes,0
+1,Verantwortung,Verantwortung,yes,0
+1,Verbände,Verbände,yes,0
+1,Vereinfachen,Vereinfachen,yes,0
+1,Verhandlung,Verhandlung,yes,0
+1,Verhandlungsgeschick,Verhandlungsgeschick,yes,0
+1,Verifikation und Validierung,Verifikation und Validierung,yes,0
+1,Verkaufsmanagement,Verkaufsmanagement,yes,0
+1,Vermarktung,Vermarktung,yes,0
+1,Vertrieb,Vertrieb,yes,0
+1,Video,Video,yes,0
+1,Virtualisierung,Virtualisierung,yes,0
+1,Visualisierung,Visualisierung,yes,0
+1,Vmware,Vmware,yes,0
+1,VWL,VWL,yes,0
+1,Webanwendung,Webanwendung,yes,0
+1,Webdesign,Webdesign,yes,0
+1,Web-Design,Web-Design,yes,0
+1,Webseitenentwicklung,Webseitenentwicklung,yes,0
+1,Webservice,Webservice,yes,0
+1,Werbung,Werbung,yes,0
+1,White-Box-Test,White-Box-Test,yes,0
+1,Windows,Windows,yes,0
+1,Wintersport,Wintersport,yes,0
+1,XenApp,XenApp,yes,0
+1,XenServer,XenServer,yes,0
+1,XML,XML,yes,0
+1,XSD,XSD,yes,0
+1,XSLT,XSLT,yes,0
+1,Yacht,Yacht,yes,0
+1,Yield Management,Yield Management,yes,0
+1,Yoga,Yoga,yes,0
+1,Yoga Unterricht,Yoga Unterricht,yes,0
+1,Zahlen,Zahlen,yes,0
+1,Zeichnen,Zeichnen,yes,0
+1,Zeitmanagement,Zeitmanagement,yes,0
+1,Zend,Zend,yes,0
+1,Zielgruppen,Zielgruppen,yes,0
+1,Zielstrebigkeit,Zielstrebigkeit,yes,0
+1,Zuverlässigkeit,Zuverlässigkeit,yes,0
