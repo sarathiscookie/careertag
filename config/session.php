@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'driver' => env('legacy-database', 'file'),
+    'driver' => env('SESSION_DRIVER', 'file'),
 
     /*
     |--------------------------------------------------------------------------
